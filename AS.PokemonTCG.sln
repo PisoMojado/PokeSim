@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS.PokemonTCG.App", "AS.PokemonTCG.App\AS.PokemonTCG.App.csproj", "{2995421B-BD45-4F2F-A5A0-61F2E1954BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS.PokemonTCG.Core", "AS.PokemonTCG.Core\AS.PokemonTCG.Core.csproj", "{13DE48E0-3E48-4A61-948A-98AB5F4D07EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS.PokemonTCG.AssetRetriever", "AS.PokemonTCG.AssetRetriever\AS.PokemonTCG.AssetRetriever.csproj", "{9A79F555-698E-4DEB-B45F-9A415E5D92D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS.Common", "AS.Common\AS.Common.csproj", "{0E929B4F-0693-4498-8634-D5EF40D00EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2995421B-BD45-4F2F-A5A0-61F2E1954BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2995421B-BD45-4F2F-A5A0-61F2E1954BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2995421B-BD45-4F2F-A5A0-61F2E1954BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2995421B-BD45-4F2F-A5A0-61F2E1954BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DE48E0-3E48-4A61-948A-98AB5F4D07EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE48E0-3E48-4A61-948A-98AB5F4D07EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DE48E0-3E48-4A61-948A-98AB5F4D07EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DE48E0-3E48-4A61-948A-98AB5F4D07EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A79F555-698E-4DEB-B45F-9A415E5D92D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A79F555-698E-4DEB-B45F-9A415E5D92D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A79F555-698E-4DEB-B45F-9A415E5D92D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A79F555-698E-4DEB-B45F-9A415E5D92D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E929B4F-0693-4498-8634-D5EF40D00EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E929B4F-0693-4498-8634-D5EF40D00EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E929B4F-0693-4498-8634-D5EF40D00EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E929B4F-0693-4498-8634-D5EF40D00EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

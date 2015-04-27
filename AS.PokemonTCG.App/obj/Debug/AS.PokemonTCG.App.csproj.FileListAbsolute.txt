@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG.App\AS.PokemonTCG.App\bin\Debug\AS.PokemonTCG.App.exe.config
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\bin\Debug\AS.PokemonTCG.App.exe.config
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\bin\Debug\AS.PokemonTCG.App.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\bin\Debug\AS.PokemonTCG.App.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\AS.PokemonTCG.App.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\MainWindow.baml
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\MainWindow.g.cs
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\App.g.cs
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\AS.PokemonTCG.App_MarkupCompile.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\AS.PokemonTCG.App.g.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\AS.PokemonTCG.App.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\AS.PokemonTCG.App.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\AS.PokemonTCG.App.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\AS.PokemonTCG\AS.PokemonTCG.App\obj\Debug\AS.PokemonTCG.App.pdb
