@@ -8,5 +8,6 @@ namespace AS.PokemonTCG.WebRetriever
 {
     class AssetManager
     {
+        //This is a purely superficial change, to be used only as an example for git version control
     }
 }
